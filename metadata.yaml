@@ -1,5 +1,7 @@
 homepage: "https://treets.com"
 documentation: "https://github.com/Treetscom/gtm_conversion_attribution/blob/main/README.md"
 versions:
+  - sha: 5ec568b849b6f327af37dd1d5263c353bd7d5a2e
+    changeNotes: Branding update (Treets Aps identity) and file-encoding fix.
   - sha: 8843143dd4e5c6e5561422fa87f0dc2c49451863
     changeNotes: Initial release
