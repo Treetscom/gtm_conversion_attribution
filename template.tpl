@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Treets conversion attribution",
-  "categories": ["ATTRIBUTION"]
+  "categories": ["ATTRIBUTION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
