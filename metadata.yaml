@@ -1,5 +1,5 @@
 homepage: "https://treets.com"
 documentation: "https://github.com/Treetscom/gtm_conversion_attribution/blob/main/README.md"
 versions:
-  - sha: cd46b70e28e6c8e9c15c90e893254a3f652b5bb2
+  - sha: 8843143dd4e5c6e5561422fa87f0dc2c49451863
     changeNotes: Initial release
